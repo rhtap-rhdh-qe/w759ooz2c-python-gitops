@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w759ooz2c-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/w759ooz2c-python
